@@ -5,7 +5,15 @@ Laissez-vous transporter dans l’univers sombre et lugubre de The Mournful Pain
 
 Au début de l'aventure, vous croiserez son grand-père qui vous indique comment les retrouver : il va falloir explorer le purgatoire à la recherche des œuvres ayant marqué sa vie, et qui prennent ici la forme de tableaux. Hé oui, notre âme est artiste ! Un monde au début froid va se colorer au fur et à mesure des souvenirs que l’on récupère, tels des coups de pinceaux sur une toile. Des vides infranchissables seront comblés par les blocs de couleurs que vous débloquerez au fur et à mesure de votre exploration dans votre quête d’identité.
 
-Pourtant, une question se pose : est-il toujours bon de se souvenir du passé ? 
+Pourtant, une question se pose : est-il toujours bon de se souvenir du passé ?
+
+
+
+Jouer en ligne : https://themournfulpainter.netlify.app/
+Télécharger le jeu (Windows / MacOs) : https://la-machine-a-cafe.itch.io/the-mournful-painter
+
+
+
 
 ### CONTRÔLES
 
