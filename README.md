@@ -1,5 +1,6 @@
 # TheMournfulPainter
 
+![alt text](https://img.itch.zone/aW1nLzEwNjg5ODUwLnBuZw==/original/Aigv3x.png)
 
 Laissez-vous transporter dans l’univers sombre et lugubre de The Mournful Painter ! C’est dans un monde monochrome et hostile que vous incarnez une âme perdue dans le purgatoire en quête de ses souvenirs.
 
@@ -9,8 +10,8 @@ Pourtant, une question se pose : est-il toujours bon de se souvenir du passé ?
 
 
 
-Jouer en ligne : https://themournfulpainter.netlify.app/
-Télécharger le jeu (Windows / MacOs) : https://la-machine-a-cafe.itch.io/the-mournful-painter
+Jouer en ligne : [The Mournful Painter](https://themournfulpainter.netlify.app/)
+Télécharger le jeu (Windows / MacOs) : [itch.io](https://la-machine-a-cafe.itch.io/the-mournful-painter)
 
 
 
