@@ -9,9 +9,7 @@ Au début de l'aventure, vous croiserez son grand-père qui vous indique comment
 Pourtant, une question se pose : est-il toujours bon de se souvenir du passé ?
 
 
-
-Jouer en ligne : [The Mournful Painter](https://themournfulpainter.netlify.app/)
-Télécharger le jeu (Windows / MacOs) : [itch.io](https://la-machine-a-cafe.itch.io/the-mournful-painter)
+[Notre page itch.io](https://la-machine-a-cafe.itch.io/the-mournful-painter)
 
 
 
